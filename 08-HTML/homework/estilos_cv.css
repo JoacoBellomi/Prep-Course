@@ -1,0 +1,25 @@
+* {
+   padding: 1;
+   margin: 0.5px;
+}
+
+h1 {
+   text-align: center;
+   margin: 0;
+   padding: 0;
+}
+h3 {
+   text-align: center;
+   margin: 0;
+   padding: 0;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
